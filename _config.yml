@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: Wedding Info!
+description: > # this means to ignore newlines until "baseurl:"
+  Gehrig's static web content | December 2016 | Wedding Timeline!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "gehrigkeane.github.io" # the base hostname & protocol for your site, e.g. http://example.com
