@@ -1,7 +1,11 @@
 # Welcome Friends and Family!
 ---
 
-The following web-page covers wedding information for Andrea and I, below you'll find a time-line, directions, and location information. Parents, I can't emphasize enough how grateful Andrea and I are for all of the help you've provided bringing our impromptu wedding together. We recognize such spontaneous plans have likely elevated feelings of stress this holiday season, and for that we apologize. We've been searching for wedding scenarios that are true to our relationship for a while now, and the relaxed ceremonies defined below very much resonate with both of us. Finally, we'd like to emphasize that the aim for our wedding is relaxed, comfortable, and Family/Friends centric. **Wear what you want!** We'll be dressed all fancy because it's fun, you're more than welcome to follow suit *\*\*pun not intended\*\**, but Christmas sweaters or pajamas are entirely welcome!
+The following web-page covers wedding information for Andrea and I, below you'll find a time-line, directions, and location information. 
+
+Parents, I can't emphasize enough how grateful Andrea and I are for all of the help you've provided bringing our impromptu wedding together. We recognize such spontaneous plans have likely elevated feelings of stress this holiday season, and for that we apologize. We've been searching for wedding scenarios that are true to our relationship for a while now, and the relaxed ceremonies defined below very much resonate with both of us. 
+
+Finally, we'd like to emphasize that the aim for our wedding is relaxed, comfortable, and Family/Friends centric. **Wear what you want!** We'll be dressed all fancy because it's fun, you're more than welcome to follow suit *\*\*pun not intended\*\**, but Christmas sweaters or pajamas are entirely welcome!
 
 ## Time-line
 ---
