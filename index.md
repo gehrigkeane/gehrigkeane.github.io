@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# Welcome Friends and Family!
+---
 
-You can use the [editor on GitHub](https://github.com/gehrigkeane/gehrigkeane.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The following wedding information and timeline is available for your convenience. Blerb, more text here, be sincere...etc...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Timeline
+---
 
-### Markdown
+* Dec. 22, Thursday
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| | |
+--- | ---
+12:00PM | Leave for Wichita
 
-```markdown
-Syntax highlighted code block
+* Dec. 23, Friday
 
-# Header 1
-## Header 2
-### Header 3
+| | |
+--- | ---
+12:00PM | Pick up cakes @ [Artistic Cakes](http://www.artisticcakes.com/)
+03:30PM | Manicure Appointment @ [Ideal Nails](https://www.facebook.com/Ideal-nails-259953634350916/)
 
-- Bulleted
-- List
+* Dec. 24, Saturday (Wedding Day!)
 
-1. Numbered
-2. List
+| | |
+--- | ---
+09:00AM | Andrea Makeup/Hair @ [Z Salon](http://www.salonzwichita.com/)
+05:00PM | Dinner @ [AVI Seabar & Chophouse](https://www.facebook.com/pg/AVISeabarAndChophouse/about)
+06:30PM | Dessert @ [AVI Seabar & Chophouse](https://www.facebook.com/pg/AVISeabarAndChophouse/about)
+07:00PM | Family & Friends Time @ The Bar
 
-**Bold** and _Italic_ and `Code` text
+* Dec. 25, Sunday
 
-[Link](url) and ![Image](src)
-```
+| | |
+--- | ---
+04:45AM | Wake up
+05:40AM | Check-out @ [Broadview Hotel](https://druryhotels.com/locations/wichita-ks/drury-plaza-hotel-broadview-wichita) (ICT -> KSLN 2hrs)
+07:45AM | Depart KSLN for DEN
+08:25AM | Arrive in DEN
+09:00AM | Pickup rental car @ [Advantage](https://www.advantage.com/location/denver-intl-airport-den) (DEN -> Estes Park 2hrs)
+03:00PM | (Earliest) Check-in @ [Mary's Lake Lodge](http://www.maryslakelodge.com/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Dec. 26 - Dec. 27
+** Estes Park Vacation
 
-### Jekyll Themes
+* Dec. 28, Wednesday
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gehrigkeane/gehrigkeane.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+| | |
+--- | ---
+11:00AM | (Latest) Check-out @ [Mary's Lake Lodge](http://www.maryslakelodge.com/)
+05:30PM | Depart DEN for KSLN
+08:00PM | Arrive in KSLN
 
-### Support or Contact
+* Dec 29 - January 1
+** Wichita Vacation
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Jan. 2, Monday
+
+| | |
+--- | ---
+07:00AM | Leave for Madison
+
+![Flight Information](denver_flight.png)
