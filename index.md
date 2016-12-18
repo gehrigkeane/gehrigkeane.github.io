@@ -66,30 +66,25 @@ We've reserved a separate dining area in the chophouse, just inform the wait sta
 
 We've ordered 3 delicious cheese cakes under Andrea's name. They're scheduled to be ready for pick-up on Dec. 23 at 12:00PM.
 
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3157.1501843063215!2d-97.44943204848244!3d37.692671824551596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bade2f00ad2ef3%3A0xa34ba36404a498dd!2sArtistic+Cakes!5e0!3m2!1sen!2sus!4v1482079858778" width="600" height="450" frameborder="0" style="border:0" markdown="0" allowfullscreen></iframe>
-
+[Map](https://www.google.com/maps/place/Artistic+Cakes/@37.6926718,-97.4494267,17z/data=!3m1!4b1!4m5!3m4!1s0x87bade2f00ad2ef3:0xa34ba36404a498dd!8m2!3d37.6926676!4d-97.447238)
 
 ### [Ideal Nails](https://www.facebook.com/Ideal-nails-259953634350916/)
 
 Andrea wants to get her nails done with Paula on Thursday Dec. 23 at 3:30PM. Ideal Nails' lacquered finish lasted for nearly two weeks in the Wyoming Rockies! Hence the repeat business.
 
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3156.4634893991406!2d-97.37475204848218!3d37.70879722362518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bae19f7085b2e1%3A0x23d18f1f3da9ea46!2sIdeal+Nails!5e0!3m2!1sen!2sus!4v1482079945275" width="600" height="450" frameborder="0" style="border:0" markdown="0" allowfullscreen></iframe>
-
+[Map](https://www.google.com/maps/place/Ideal+Nails/@37.7087972,-97.3747467,17z/data=!3m1!4b1!4m5!3m4!1s0x87bae19f7085b2e1:0x23d18f1f3da9ea46!8m2!3d37.708793!4d-97.372558)
 
 ### [Salon Z](http://www.salonzwichita.com/)
 
 Andrea's scheduled for her hair and makeup appointment at Salon Z on Dec. 24 at 9:00AM. I don't know anything about this place ... here's a map:
 
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3157.1162799993917!2d-97.42687754848238!3d37.69346812450566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bae08fb4a143df%3A0xaeb188e2a2ed08ba!2sSalonZ!5e0!3m2!1sen!2sus!4v1482080492602" width="600" height="450" frameborder="0" style="border:0" markdown="0" allowfullscreen></iframe>
-
+[Map](https://www.google.com/maps/place/SalonZ/@37.6934681,-97.4268722,17z/data=!3m1!4b1!4m5!3m4!1s0x87bae08fb4a143df:0xaeb188e2a2ed08ba!8m2!3d37.6934639!4d-97.4246835)
 
 ### Keane Household - In case you need this for whatever reason
 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d789.0977847436645!2d-97.3845940118539!3d37.710495859692934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bae1a5ff67663d%3A0x415e7c79c08b18e!2s1461+N+High%2C+Wichita%2C+KS+67203!5e0!3m2!1sen!2sus!4v1482035371926" width="600" height="450" frameborder="0" style="border:0" markdown="0" allowfullscreen></iframe>
+
 
 ## Our Travel Information - This is for our reference
 ---
