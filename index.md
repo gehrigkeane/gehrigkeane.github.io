@@ -92,6 +92,7 @@ Andrea's scheduled for her hair and makeup appointment at Salon Z on Dec. 24 at 
 ### [Advantage Rental Car](https://www.advantage.com/location/denver-intl-airport-den)
 
 Pickup Information
+
 * Take the train to the main terminal. Take the Advantage courtesy shuttle bus to the Rental Car Facility. The courtesy bus stops outside the baggage claim area on the East and West side at Island 4. The courtesy bus runs every 8-10 minutes.
 
 [Map](https://www.google.com/maps/place/Advantage+Rent+A+Car/@39.8366064,-104.7127227,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x661a262144364a9d!8m2!3d39.8366023!4d-104.7105338)
