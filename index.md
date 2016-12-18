@@ -45,7 +45,7 @@ The following table outlines our general time-line of events. December 24, Thurs
 
 ### Livingston Household - Ceremony Location
 
-Our vision of the ceremonies is as follows: Arrival at the Livingston residence around 3:30PM. Loose socialization and hors d'oeuvres until everyone arrives and has been introduced. Around 3:45PM Andrea and I will announce our thanks to everyone in attendance, and then recite our vows for one another. Proceeding vows we'll sign the marriage license and begin pictures! Finally, after the mothers are sated we'll depart for Dinner!
+Our vision of the ceremonies is as follows: Arrival at the Livingston residence around 3:30PM. Loose socialization and hors d'oeuvres until everyone arrives and has been introduced. Around 3:45PM Andrea and I will announce our thanks to everyone in attendance, and then recite our vows to one another. Proceeding vows we'll sign the marriage license and begin pictures! Finally, after the mothers are sated we'll depart for Dinner!
 
 
 **Address:** 11414 West Lost Creek Circle, Wichita, KS
@@ -72,7 +72,7 @@ We've ordered 3 delicious cheese cakes under Andrea's name. They're scheduled to
 
 ### [Ideal Nails](https://www.facebook.com/Ideal-nails-259953634350916/)
 
-Andrea wants to get her nails done with Paula on Thursday Dec. 23 at 3:30PM. Ideal Nails' lacquered finished lasted for nearly two weeks in the Wyoming Rockies! Hence the repeat business.
+Andrea wants to get her nails done with Paula on Thursday Dec. 23 at 3:30PM. Ideal Nails' lacquered finish lasted for nearly two weeks in the Wyoming Rockies! Hence the repeat business.
 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3156.4634893991406!2d-97.37475204848218!3d37.70879722362518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bae19f7085b2e1%3A0x23d18f1f3da9ea46!2sIdeal+Nails!5e0!3m2!1sen!2sus!4v1482079945275" width="600" height="450" frameborder="0" style="border:0" markdown="0" allowfullscreen></iframe>
@@ -91,16 +91,21 @@ Andrea's scheduled for her hair and makeup appointment at Salon Z on Dec. 24 at 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d789.0977847436645!2d-97.3845940118539!3d37.710495859692934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87bae1a5ff67663d%3A0x415e7c79c08b18e!2s1461+N+High%2C+Wichita%2C+KS+67203!5e0!3m2!1sen!2sus!4v1482035371926" width="600" height="450" frameborder="0" style="border:0" markdown="0" allowfullscreen></iframe>
 
+## Our Travel Information - This is for our reference
+---
+
+### [Advantage Rental Car](https://www.advantage.com/location/denver-intl-airport-den)
+
+Pickup Information
+* Take the train to the main terminal. Take the Advantage courtesy shuttle bus to the Rental Car Facility. The courtesy bus stops outside the baggage claim area on the East and West side at Island 4. The courtesy bus runs every 8-10 minutes.
+
+[Map](https://www.google.com/maps/place/Advantage+Rent+A+Car/@39.8366064,-104.7127227,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x661a262144364a9d!8m2!3d39.8366023!4d-104.7105338)
+
 ### [Mary's Lake Lodge](http://www.maryslakelodge.com/)
 
 If you need to reach us for whatever reason and our phones aren't working, here's the information for our hotel in Estes Park.
 
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3041.203518291953!2d-105.53359164843891!3d40.337831068255824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8769644f13754335%3A0xd77ba3824509023e!2sMary&#39;s+Lake+Lodge!5e0!3m2!1sen!2sus!4v1482082214505" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-
-## Flight Information
----
+[Map](https://www.google.com/maps/place/Mary's+Lake+Lodge/@40.3378311,-105.5335863,17z/data=!3m1!4b1!4m5!3m4!1s0x8769644f13754335:0xd77ba3824509023e!8m2!3d40.337827!4d-105.5313976)
 
 
 ![Flight Information](denver_flight.png)
